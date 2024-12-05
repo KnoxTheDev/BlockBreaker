@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "blockbreaker"
 version = "0.1.0"
-description = ""
-authors = ["Knox <tuxltuxl001@gmail.com>"]
+description = "A CLI tool for Minecraft server penetration testing"
+authors = ["KnoxTheDev <tuxltuxl001@gmail.com>"]
 readme = "README.md"
+license = "LICENSE"
 
 [tool.poetry.dependencies]
 python = "^3.12"
